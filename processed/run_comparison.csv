@@ -1,0 +1,4 @@
+run,weeks_compared,RMSE,MAE,correlation,peak_timing_diff_weeks,peak_size_diff,total_ratio_sim_over_real
+m0.4,27,3068.4,1838.1,0.569,-2.0,-8198.0,0.001
+m0.8,27,2987.0,1775.7,0.923,0.0,-8007.0,0.035
+m1.0,27,2786.2,1599.9,0.757,0.0,-7593.0,0.158
